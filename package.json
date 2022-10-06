@@ -1,0 +1,17 @@
+{
+  "name": "rollup-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@huogui/eslint-config": "^1.1.30",
+    "eslint": "^8.24.0",
+    "rollup": "^2.79.1"
+  }
+}
