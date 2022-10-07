@@ -12,7 +12,7 @@ const buildIndexOptions = {
     {
       dir: 'dist/es',
       format: 'esm',
-      plugins: [terser()],
+      plugins: [terser],
     },
     {
       dir: 'dist/cjs',
